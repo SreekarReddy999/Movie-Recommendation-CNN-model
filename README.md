@@ -1,3 +1,6 @@
+In this Project we build a CNN model to predict the top 10 movies to recommend for a user based on this past data of his movie collection.
+
+
 Project Members
 
 Sreekar Reddy Kasireddy - skmvk@umsystem.edu
